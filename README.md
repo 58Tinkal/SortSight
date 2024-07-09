@@ -1,11 +1,11 @@
 
-# DevZen
+# SortSight
 <p align="center">
 <img src="https://github.com/58Tinkal/SortSight/blob/main/Assets/working.jpg" alt="SortSight"/>
 
 <br/>
 <a href="https://drive.google.com/file/d/1QvuAsC4veG9WF4R8SlJaFURsNnJ5r0FR/view?usp=drive_link">DEMO CLIP</a>&nbsp&nbsp&nbsp
-  <a href="https://58tinkal.github.io/SortSight/)">View Deployed Website</a>
+  <a href="https://58tinkal.github.io/SortSight/">View Deployed Website</a>
 </p>
 
 
