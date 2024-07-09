@@ -5,7 +5,7 @@
 
 <br/>
 <a href="https://drive.google.com/file/d/1QvuAsC4veG9WF4R8SlJaFURsNnJ5r0FR/view?usp=drive_link">DEMO CLIP</a>&nbsp&nbsp&nbsp
-  <a href="[https://devzen-sr.netlify.app/](https://58tinkal.github.io/SortSight/)">View Deployed Website</a>
+  <a href="https://58tinkal.github.io/SortSight/)">View Deployed Website</a>
 </p>
 
 
