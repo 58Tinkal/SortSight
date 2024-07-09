@@ -1,7 +1,7 @@
 
 # DevZen
 <p align="center">
-<img src="https://github.com/58Tinkal/SortSight/Assets/working.png" alt="DevZen"/>
+<img src="https://github.com/58Tinkal/SortSight/Assets/working.jpg" alt="SortSight"/>
 
 <br/>
 <a href="https://drive.google.com/file/d/1QvuAsC4veG9WF4R8SlJaFURsNnJ5r0FR/view?usp=drive_link">DEMO CLIP</a>&nbsp&nbsp&nbsp
